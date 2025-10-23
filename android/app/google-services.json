@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275672045435",
+    "project_id": "flutter-auth-app-1d2cf",
+    "storage_bucket": "flutter-auth-app-1d2cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275672045435:android:f31deb283f408970af8fde",
+        "android_client_info": {
+          "package_name": "com.example.medalla_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5yqnMLsidAn4y0qq-CWc8snMSwM-DsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
